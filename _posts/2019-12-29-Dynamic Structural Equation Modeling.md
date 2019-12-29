@@ -1,3 +1,14 @@
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -5,15 +16,8 @@
         inlineMath: [['$','$']]
       }
     });
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  }
-};
-	
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 This document is an informal introduction to---and a subsequent literature review of---[residual] dynamic structural equation modeling ([R]DSEM) of (intensive) longitudinal data. Although [R]DSEM is mostly applied to multi-level problems wherein the within- and between-person differences are modeled, here I assume these sources of variations can be disentangled. Then I will demonstrate how a simple, non-hierarchical, case of such models can be implemented using R package `lavaan`. **This post is not complete yet, as of 29 Dec 2019.**
 
