@@ -89,4 +89,4 @@ exclude:
 #plugins:
 #  - jemoji
   
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
