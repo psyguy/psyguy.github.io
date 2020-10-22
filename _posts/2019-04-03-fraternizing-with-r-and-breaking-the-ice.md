@@ -43,7 +43,7 @@ With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that 
 
 ## _But I’m too old for this :(_
 
-This graph (from Navarro’s [intro slides](https://psyr.org/misc/overview.pdf)) summarizes why you should still start learning R:
+This graph (from Navarro’s [intro slides](https://psyr.djnavarro.net/misc/overview.pdf)) summarizes why you should still start learning R:
 
 ![image](https://user-images.githubusercontent.com/8527082/55494231-a94d0600-563a-11e9-816d-2bbfd6cab64f.png)
  
@@ -51,7 +51,7 @@ I can assure you that it is quite easy to reach the point where R surpasses the 
 
 ## _Owkay, but I don’t know where to start :(_
 
-There are literally thousands of free resources to learn R out there. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name suggests, it is well tailored for psychology--although the chapters on intermediate and advanced statistics are not complete yet.
+There are literally thousands of free resources to learn R out there. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.djnavarro.net/). As the name suggests, it is well tailored for psychology--although the chapters on intermediate and advanced statistics are not complete yet.
 
 However, **for an even faster, more efficient learning,** you can also benefit from [RStudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/) after you have the fundamental knowledge of R. I suggest to follow them in this order:
 -    Base R
